@@ -132,4 +132,7 @@ function actualizar() {
        //this value para que agarre le valor 
     peticion.open('GET', 'Usuarios/getById/'+this.value);
     peticion.send()
+
+
+    //ASDAS
 }
